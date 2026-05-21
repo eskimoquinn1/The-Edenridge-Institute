@@ -1,0 +1,118 @@
+# Ebonridge Institute
+
+*A gothic aristocratic adult visual novel built in Ren’Py.*
+
+## Premise
+
+Ebonridge Institute is an elite three-year finishing academy where adults study:
+
+* dominance,
+* submission,
+* emotional discipline,
+* etiquette,
+* hierarchy,
+* and political power.
+
+Behind its elegant halls and candlelit ceremonies lies a brutal meritocracy where reputation determines survival.
+
+Students rise through the ranks:
+
+* Ivory
+* Silver
+* Crimson
+* Obsidian
+* Platinum
+
+—or fall into disgrace.
+
+The academy publicly claims neutrality between Dominants and submissives, men and women alike.
+
+In practice, the system favors a deeply rooted matriarchal hierarchy:
+
+* Female Dominants are institutionally protected.
+* Male Dominants are heavily scrutinized.
+* Female submissives wield dangerous political influence.
+* Male submissives are refined into the social foundation of Ebonridge itself.
+
+Every relationship is strategic.
+Every pairing has consequences.
+
+## Features
+
+* 4 playable protagonists:
+
+  * Male Dominant
+  * Female Dominant
+  * Male Submissive
+  * Female Submissive
+
+* Dynamic relationship and pairing systems
+
+* Multiple Year Three standings:
+
+  * Crimson
+  * Obsidian
+  * Platinum
+  * Reassigned/Brat states
+
+* Branching routes influenced by:
+
+  * loyalty,
+  * sabotage,
+  * composure,
+  * prestige,
+  * and institutional alignment
+
+* A reactive cast where unplayed protagonists become NPCs with evolving storylines
+
+* Gothic dark-academia aesthetic
+
+* Adult themes including:
+
+  * power exchange,
+  * feminization,
+  * hierarchy,
+  * emotional conditioning,
+  * political manipulation,
+  * and consensual BDSM dynamics
+
+## Narrative Themes
+
+Ebonridge explores:
+
+* institutional bias,
+* emotional control,
+* loyalty versus ambition,
+* identity reconstruction,
+* and whether hierarchy creates order—or simply reproduces itself.
+
+## Engine
+
+Built using:
+
+* Ren’Py
+* Python scripting
+* branching VN architecture
+
+## Development Status
+
+Currently in early pre-production:
+
+* route design,
+* cast development,
+* ranking systems,
+* and narrative framework underway.
+
+## Content Warning
+
+This project contains:
+
+* explicit adult content,
+* BDSM themes,
+* manipulation,
+* humiliation,
+* feminization,
+* psychological tension,
+* and mature interpersonal dynamics.
+
+All characters are 18+.
